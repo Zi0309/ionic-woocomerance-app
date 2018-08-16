@@ -14,7 +14,7 @@ export class Config {
     consumerSecret: any = 'cs_85a0c650ac1a306bd1ef3d21dad9381e6cf6743b';
     oneSignalAppId: any = '0136e2d4-bd04-4766-864f-1819cbb4ea1d';
     googleProjectId: any = '686691393555';
-    webClientId: any = '686691393555-iear95lunpep2rngf86u6ojgjh26svrn.apps.googleusercontent.com';
+    webClientId: any = '686691393555-v9c8fchad865j5dvcmb1o4o5j20rmdag.apps.googleusercontent.com';
     appDir: any = 'ltr';
 
     appRateIosAppId: any = '12345678';
