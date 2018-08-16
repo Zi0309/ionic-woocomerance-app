@@ -12,9 +12,9 @@ export class Config {
     url: any = 'https://superkacher.com/';
     consumerKey: any = 'ck_0ef4baca74531f21a223a16f7c75f81bfe8c7c9b';
     consumerSecret: any = 'cs_85a0c650ac1a306bd1ef3d21dad9381e6cf6743b';
-    oneSignalAppId: any = 'bc094fd8-b95c-4b33-9c9e-43413e3aef7f';
-    googleProjectId: any = '242545103000';
-    webClientId: any = '456352511209-fbam1kgj6350b5ddsf4vfidbs1.apps.googleusercontent.com';
+    oneSignalAppId: any = '0136e2d4-bd04-4766-864f-1819cbb4ea1d';
+    googleProjectId: any = '686691393555';
+    webClientId: any = '686691393555-iear95lunpep2rngf86u6ojgjh26svrn.apps.googleusercontent.com';
     appDir: any = 'ltr';
 
     appRateIosAppId: any = '12345678';
